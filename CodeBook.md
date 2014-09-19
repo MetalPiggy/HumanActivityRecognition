@@ -1,7 +1,5 @@
----
-title: "Getting and Cleaning Data - Course Project"
-output: html_document
----
+# Getting and Cleaning Data - Course Project - Code Book
+
 
 ## Data:
 There are two sets of data, one for training and the other testing. They are in their corresponding folder structure.
